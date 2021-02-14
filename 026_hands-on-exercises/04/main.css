@@ -1,0 +1,11 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-weight: 300;
+}
+p{
+    font-weight: 700;
+    text-transform: uppercase;
+    font-style: italic;
+}
